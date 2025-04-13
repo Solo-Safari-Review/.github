@@ -1,4 +1,4 @@
-# Reveazy: Review and Easy
+# Reveazy: Review and Easy — Smart Insights from Every Review
 
 ![Status](https://img.shields.io/badge/status-development-blue)
 ![Made with](https://img.shields.io/badge/Made%20with-Love-red)
