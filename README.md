@@ -34,18 +34,18 @@ It also serves as part of the implementation of the **Tri Dharma of Higher Educa
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: [HTML, CSS, JavaScript]
-- **Backend**: [Laravel, FastAPI]
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Laravel, FastAPI
 - **Machine Learning**: 
-- **Database**: [MySQL]
-- **Hosting**: [Hostinger]
+- **Database**: MySQL
+- **Hosting**: Hostinger
 
 ---
 
 ## 👥 Team Members
 - [Muhammad Nur Hikmah Ramadhan](https://github.com/didanrmdhn) – Project Coordinator & Machine Learning Engineer
 - [Anindita Putri Kirani](https://github.com/aniindyta) – Machine Learning Engineer
-- [Kalista Mukharohmah Mukti Yasilla] – Machine Learning Engineer
+- Kalista Mukharohmah Mukti Yasilla – Machine Learning Engineer
 - [Karren Gabriella Khoirunnisa](https://github.com/karrengabriella) – Frontend Developer & UI/UX Designer
 - [Yudha Cahya Wijaya](https://github.com/CahyaW06) – Backend Developer & Database Engineer
 
